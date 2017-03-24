@@ -14,5 +14,5 @@
 
 
 ## <span id="vim">vim</span>
-- [vim命令详解](http://www.cnblogs.com/usergaojie/p/4583796.html)
+- <a href="http://www.cnblogs.com/usergaojie/p/4583796.html" target="_blank">vim命令详解</a>
 - [配置.vimrc](http://blog.csdn.net/yuanmengong886/article/details/52914714)
